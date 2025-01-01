@@ -1,1 +1,1 @@
-[# kaggle_dota2](https://www.kaggle.com/c/competition-1-yandex-shad-spring-2017)
+https://www.kaggle.com/c/competition-1-yandex-shad-spring-2017
